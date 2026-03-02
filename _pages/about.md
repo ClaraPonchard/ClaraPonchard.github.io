@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Clara Ponchard"
+title: "Clara Ponchard, Researcher - INRIA Defense & Security"
 author_profile: true
 redirect_from: 
   - /about/
