@@ -1,7 +1,7 @@
 ---
 title: "Automatic classification of French stop consonants"
 collection: publications
-category: conferences
+category: conference_papers
 permalink: /publication/2019-10-ponchard-stop-consonants
 excerpt: "Automatic classification of French stop consonants."
 date: 2019-10-01
