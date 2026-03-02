@@ -23,7 +23,7 @@ repository               : "ClaraPonchard/ClaraPonchard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1517069107096.png"
+  avatar           : "image(1).png"
   name             : "Clara Ponchard"
   pronouns         : # example: "she/her"  
   bio              : "Junior researcher in speech and audio processing at Inria (Defense & Security)"
