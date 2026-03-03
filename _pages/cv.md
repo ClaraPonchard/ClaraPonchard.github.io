@@ -24,18 +24,14 @@ Education
 
 - **2013–2014** — **Preparatory Year in Medical and Paramedical Studies**, Institut Général de Préparation aux Études Paramédicales et Médicales (IGPEPM)
 
----
-
 Work Experience
 ======
 
 - **11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux
   ·Explainable AI models based on phonetic features  
-  ·Spoken Language Identification 
+  ·Spoken Language Identification
   ·Automatic Speaker Recognition
-
-**2023** — **Research Engineer (Data Production and Analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle – Paris 3  
-
+  
 - **2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
 
 - **2023-2024** – **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle – Paris 3  
