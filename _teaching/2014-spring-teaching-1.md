@@ -20,7 +20,7 @@ author_profile: true
 - **Outils de traitement de corpus** (TD, 24h)  
   *Corpus processing tools*
 
-#### Licence 3
+#### Licence 3 
 - **Programmation en Python** (TD, 24h)  
   *Python programming*
 
