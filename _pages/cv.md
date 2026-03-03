@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 
 - **2019–2023** — **PhD in Phonetics, Phonology and Speech Sciences**, Université Sorbonne Nouvelle – Paris 3 (Doctoral School 622, CNRS UMR 7018 – Laboratoire de Phonétique et de Phonologie)  
   *Study of variation parameters of aerodynamic and acoustic measurements in normal and Parkinsonian speech among women*  
@@ -24,19 +23,17 @@ Education
 
 - **2013–2014** — **Preparatory Year in Medical and Paramedical Studies**, Institut Général de Préparation aux Études Paramédicales et Médicales (IGPEPM)
 
-Work Experience
-======
 
-**11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux  
+## Work Experience
 
-- Explainable AI models based on phonetic features  
-- Spoken Language Identification  
-- Automatic Speaker Recognition
-  
-**2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
+- **11/2024 – Present** — **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux  
+  - Explainable AI models based on phonetic features  
+  - Spoken Language Identification  
+  - Automatic Speaker Recognition  
 
-**2023-2024** – **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle - Paris 3, CNU 7 - Linguistics and Phonetics  
+- **2024** — **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
 
-**2023** – **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle - Paris 3  
+- **2023–2024** — **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle – Paris 3, CNU 7 – Linguistics and Phonetics  
 
-- Development of a reference speech aerodynamics database, protocols and automatic tools for processing and analyzing aerodynamic data.
+- **2023** — **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle – Paris 3  
+  - Development of a reference speech aerodynamics database, protocols and automatic tools for processing and analyzing aerodynamic data.
