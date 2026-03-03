@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: ""
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2019-10-ponchard-stop-consonants
+excerpt: ""
+date: 2019-10-01
+venue: ""
+paperurl: "https://doi.org/10.1121/1.5137715"
+citation: "Ponchard, C., Hassid, S., & Demolin, D. (2019). <i>Automatic classification of French stop consonants.</i> The Journal of the Acoustical Society of America, 146(4 Suppl.), 3084–3085. https://doi.org/10.1121/1.5137715"
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
