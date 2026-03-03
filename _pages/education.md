@@ -5,13 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## PhD in Phonetics, Phonology and Speech Sciences (2019–2023)  
-*Doctorat en Phonétique, Phonologie et Sciences de la parole  
-Université Sorbonne Nouvelle – Paris 3 · ED 622 Linguistics · CNRS UMR 7018 (LPP)*
-*Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*  
-Supervisors: Didier Demolin & Lise Crevier-Buchman · Defended September 5, 2023
-Committee: D. Grabili · F. Pellegrino · C. Pillot-Loiseau · J. Kreiman · J. Kingston 
-
+PhD in Phonetics, Phonology and Speech Sciences, Université Sorbonne Nouvelle – Paris 3, Doctoral School 622 (Linguistics), CNRS UMR 7018 – Laboratoire de Phonétique et de Phonologie (LPP), *Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*, 2019–2023.
 ---
 
 ## Master’s Degree  
