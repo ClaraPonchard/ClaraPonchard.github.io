@@ -1,20 +1,42 @@
 ---
-title: "Teaching experience 1"
+title: "ATER – 2024–2025"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Full-time teaching position"
+permalink: /teaching/2024-ater
+venue: "Université Sorbonne Nouvelle – Paris 3"
+date: 2024-09-01
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### ATER (2024–2025) – 186h  
+*Full-time teaching fellow – 186 hours*
 
-Heading 1
-======
+---
 
-Heading 2
-======
+#### Master 1
+- **Séminaire de phonétique physiologique et acoustique** (CM, 12h)  
+  *Physiological and acoustic phonetics seminar*
 
-Heading 3
-======
+- **Outils de traitement de corpus** (TD, 24h)  
+  *Corpus processing tools*
+
+---
+
+#### Licence 3
+- **Apprendre à programmer en Python** (TD, 24h)  
+  *Introduction to Python programming*
+
+- **Exploration informatique de corpus annotés** (TD, 26h)  
+  *Computational exploration of annotated corpora*
+
+---
+
+#### Licence 2
+- **Informatique et industries de la langue** (TD, 48h)  
+  *Language technologies*
+
+---
+
+#### Licence 1
+- **Statistiques pour les sciences du langage** (TD, 52h)  
+  *Statistics for linguistics*
