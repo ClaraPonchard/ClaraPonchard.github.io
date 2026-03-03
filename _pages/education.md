@@ -5,10 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-# Education
-
----
-
 ## PhD in Phonetics, Phonology and Speech Sciences  
 *Doctorat en Phonétique, Phonologie et Sciences de la parole*  
 **2019 – 2023**
