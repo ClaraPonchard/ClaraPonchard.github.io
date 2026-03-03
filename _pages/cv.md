@@ -27,15 +27,16 @@ Education
 Work Experience
 ======
 
-- **11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux
-  ·Explainable AI models based on phonetic features  
-  ·Spoken Language Identification
-  ·Automatic Speaker Recognition
-  
-- **2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
+**11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux  
 
-- **2023-2024** – **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle – Paris 3  
+- Explainable AI models based on phonetic features  
+- Spoken Language Identification  
+- Automatic Speaker Recognition
+  
+**2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
+
+**2023-2024** – **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle – Paris 3  
   CNU 7 – Linguistics and Phonetics  
 
-- **2023** – **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle – Paris 3  
+**2023** – **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle – Paris 3  
   Collection and analysis of aerodynamic speech data, including subglottal and intraoral pressure measurements.
