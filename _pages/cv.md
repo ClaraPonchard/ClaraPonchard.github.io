@@ -13,7 +13,7 @@ Education
 ======
 
 - **2019–2023** — **PhD in Phonetics, Phonology and Speech Sciences**, Université Sorbonne Nouvelle – Paris 3 (Doctoral School 622, CNRS UMR 7018 – Laboratoire de Phonétique et de Phonologie)  
-  Dissertation: *Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*  
+  *Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*  
   [Download doctoral thesis (PDF)](https://theses.hal.science/tel-04585699/file/These_PONCHARD_Clara_2023.pdf)
 
 - **2017–2019** — **Master’s Degree in Natural Language Processing (Research & Development track, with highest honors)**, Université Sorbonne Nouvelle – Paris 3 · Université Paris Nanterre · INALCO  
