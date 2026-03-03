@@ -11,54 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **PhD in Phonetics, Phonology and Speech Sciences**, Université Sorbonne Nouvelle – Paris 3 (Doctoral School 622, CNRS UMR 7018 – Laboratoire de Phonétique et de Phonologie), 2019–2023  
+  Dissertation: *Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*  
+  [Download dissertation (PDF)](https://theses.hal.science/tel-04585699/file/These_PONCHARD_Clara_2023.pdf)
+
+- **Master’s Degree in Natural Language Processing (Research & Development track, with highest honors)**, Université Sorbonne Nouvelle – Paris 3 · Université Paris Nanterre · INALCO, 2017–2019  
+  Master’s thesis: *[Title of your master’s thesis]*  
+  [Download master’s thesis (PDF)](https://plurital.org/memoires/Clara_PONCHARD-RD-1819.pdf)
+
+- **Bachelor’s Degree in Linguistics (Minor in Literature)**, Université Sorbonne Nouvelle – Paris 3, 2014–2017  
+
+- **Preparatory Year in Medical and Paramedical Studies**, Institut Général de Préparation aux Études Paramédicales et Médicales, 2013–2014  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Starting Research Position (Defense & Security Mission)**, INRIA Bordeaux  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle – Paris 3  
+  CNU 7 – Linguistics and Phonetics 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle – Paris 3  
+  Data collection, processing, and analysis  
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
