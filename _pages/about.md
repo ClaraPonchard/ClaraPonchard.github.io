@@ -18,4 +18,4 @@ My doctoral work examined how these aerodynamic and acoustic parameters vary in 
 
 Overall, my research aims to better understand speech production mechanisms and to leverage this knowledge to identify robust and interpretable vocal markers, both for the study of typical and pathological speech and for the development of more reliable and explainable systems for language and speaker recognition.
 
-**Keywords:** Speech Aerodynamics · Subglottal Pressure · Intraoral Pressure · Spoken Language Identification · Automatic Speaker Recognition · Interpretability · Explainability · Phonetics · Speech Production · Parkinson's Disease · Hypokinetic Dysarthria · Vocal Biomarkers · French Speech
+**Keywords:** Speech Aerodynamics · Subglottal Pressure · Intraoral Pressure · Spoken Language Identification · Automatic Speaker Recognition · Interpretability · Explainability · Phonetics · Speech Production · Parkinson's Disease · Hypokinetic Dysarthria · Vocal Biomarkers 
