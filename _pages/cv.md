@@ -13,11 +13,11 @@ Education
 ======
 
 - **2019–2023** — **PhD in Phonetics, Phonology and Speech Sciences**, Université Sorbonne Nouvelle – Paris 3 (Doctoral School 622, CNRS UMR 7018 – Laboratoire de Phonétique et de Phonologie)  
-  *Variation parameters in aerodynamic and acoustic measurements in typical and Parkinsonian speech in women*  
+  *Study of variation parameters of aerodynamic and acoustic measurements in normal and Parkinsonian speech among women*  
   [Download doctoral thesis (PDF)](https://theses.hal.science/tel-04585699/file/These_PONCHARD_Clara_2023.pdf)
 
 - **2017–2019** — **Master’s Degree in Natural Language Processing (Research & Development track, with highest honors)**, Université Sorbonne Nouvelle – Paris 3 · Université Paris Nanterre · INALCO  
-  Master’s thesis: *[Title of your master’s thesis]*  
+  Master’s thesis: *Automatic classification of places of articulation of French stop consonants*  
   [Download master’s thesis (PDF)](https://plurital.org/memoires/Clara_PONCHARD-RD-1819.pdf)
 
 - **2014–2017** — **Bachelor’s Degree in Linguistics (Minor in Literature)**, Université Sorbonne Nouvelle – Paris 3  
@@ -29,7 +29,10 @@ Education
 Work Experience
 ======
 
-- **11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Bordeaux  
+- **11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Paris/Bordeaux
+Explainable AI models based on phonetic features  
+Spoken Language Identification (LID)  
+Automatic Speaker Recognition
 
 - **2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
 
