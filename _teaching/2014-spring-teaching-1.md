@@ -5,40 +5,54 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching experience  
+## Teaching experience / Expérience d’enseignement  
 **Université Sorbonne Nouvelle – Paris 3**
 
 ---
 
 ### ATER (2024–2025) – 186h  
-*Full-time teaching position*
+*Attachée Temporaire d’Enseignement et de Recherche / Full-time teaching fellow*
 
-- M1 – Phonétique physiologique et acoustique (CM)  
+#### Master 1
+- **Phonétique physiologique et acoustique** (CM, 12h)  
   *Physiological and acoustic phonetics*
 
-- M1 – Outils de traitement de corpus (TD)  
+- **Outils de traitement de corpus** (TD, 24h)  
   *Corpus processing tools*
 
-- L3 – Programmation Python (TD)  
+#### Licence 3
+- **Programmation en Python** (TD, 24h)  
   *Python programming*
 
-- L2 – Informatique et industries de la langue (TD)  
+#### Licence 2
+- **Informatique et industries de la langue** (TD, 48h)  
   *Language technologies*
 
-- L1 – Statistiques (TD)  
+#### Licence 1
+- **Statistiques** (TD, 52h)  
   *Statistics for linguistics*
 
 ---
 
-### Vacataire (2025–present) – 50h
+### Vacataire (2025–présent)  
+*Part-time lecturer*
 
-- L3 – Programmation Python  
-- L3 – Exploration informatique de corpus annotés  
+- **Programmation en Python** (L3)  
+  *Python programming*
+
+- **Exploration informatique de corpus annotés** (L3)  
+  *Computational exploration of annotated corpora*
 
 ---
 
-### Chargée de TD – Contrat doctoral (2019–2024)
+### Chargée de TD – Contrat doctoral (2019–2024)  
+*Doctoral teaching fellow*
 
-- M1 – Outils de traitement de corpus  
-- L2 – Informatique et industries de la langue  
-- L1 – Statistiques  
+- **Outils de traitement de corpus** (M1)  
+  *Corpus processing tools*
+
+- **Informatique et industries de la langue** (L2)  
+  *Language technologies*
+
+- **Statistiques** (L1)  
+  *Statistics*
