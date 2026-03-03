@@ -38,4 +38,4 @@ Work Experience
 **2023-2024** – **Full-time Teaching Fellow (ATER)**, Université Sorbonne Nouvelle - Paris 3, CNU 7 - Linguistics and Phonetics  
 
 **2023** – **Research Engineer (Data production and analysis)**, Laboratoire de Phonétique et de Phonologie, Université Sorbonne Nouvelle - Paris 3  
-  Collection and analysis of aerodynamic speech data, including subglottal and intraoral pressure measurements.
+   Development of a reference speech aerodynamics database, protocols and automatic tools for processing and analyzing aerodynamic data.
