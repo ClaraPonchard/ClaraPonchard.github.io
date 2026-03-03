@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About
 
-I am a researcher at Inria (Defense & Security Mission) working on speech and audio processing. My current research focuses on the interpretability and explainability of models for Spoken Language Identification and Automatic Speaker Recognition, with an emphasis on phonetic features.
+I am a researcher at Inria (Defense & Security Mission), working on speech and audio processing. My work focuses on making automatic systems for language identification and speaker recognition more interpretable and explainable, with a particular emphasis on phonetic and acoustic features.
 
 My background is in experimental phonetics and speech production. During my PhD at the Laboratoire de Phonétique et de Phonologie (CNRS UMR 7018), Université Sorbonne Nouvelle - Paris 3, I investigated speech production mechanisms with a particular focus on the aerodynamic phase. 
 
