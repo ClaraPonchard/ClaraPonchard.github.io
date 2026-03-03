@@ -29,7 +29,7 @@ Education
 Work Experience
 ======
 
-- **11/2024 – Present** — **Starting Research Position (Defense & Security Mission)**, INRIA Bordeaux  
+- **11/2024 – Present** – **Starting Research Position (Defense & Security Mission)**, INRIA Bordeaux  
 
 - **2024** – **Postdoctoral Researcher**, INRIA Paris – Defense & Security Mission, Speech and Audio Group (LR2)  
 
